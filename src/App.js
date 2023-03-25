@@ -117,6 +117,4 @@ function Modal(props) {
   );
 }
 
-// 교육 항목 20230326
-
 export default App;
